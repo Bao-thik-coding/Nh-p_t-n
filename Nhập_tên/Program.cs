@@ -14,8 +14,8 @@ namespace Nhập_tên
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.Write("Nhập Họ và tên:  ");
-            string Name = Console.ReadLine();
-            Console.WriteLine("Tên Bạn là  " + Name);
+            string name = Console.ReadLine();
+            Console.WriteLine("Tên Bạn là  " + name);
             Console.ReadKey();
 
             
